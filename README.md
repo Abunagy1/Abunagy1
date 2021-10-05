@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohamed Nagy, Mechanical/Electrical Power Engineer Graduated from Alexandria University, Egypt
 - 👀 I’m interested in  ML, CNN and Academic Research In Computer Vision
-- 🌱 I’m currently learning all the paths away to Computer Vision
+- 🌱 I’m currently learning all the paths to Computer Vision
 - 💞️ I’m looking to collaborate on Any Projects related to ML
 - 📫 How to reach me Via E-Mail: Postta@AOL.com / Eng-M.Nagy@Alexu.edu.eg
 
